@@ -2,7 +2,7 @@
 <!-- markdownlint-disable -->
 <div align="center">
   <h1>Digital Hand Tracking (DHT)</h1>
-  <img width="25%" src="logo-pre.png">
+  <img width="200px" src="logo-pre.PNG">
   <p><strong>DHT</strong> un sistema de manipulación gestual de imágenes médicas, compuesto por <a target="_blank" href="https://www.ultraleap.com/product/leap-motion-controller/">Leap Motion</a> y un visualizador de imágenes médicas (derivado de <a target="_blank" href="http://ohif.org/"> OHIF</a>). El objetivo de <b>DHT</b> es facilitar la visualización y manipulación de imágenes médicas para reducir inconvenientes relacionados con los procedimientos de visualización de imágenes diagnósticas que involucran contacto directo con superficies en entornos quirúrgicos.</p>
 </div>
 
@@ -19,7 +19,7 @@
 
 ## Sobre DHT
 <div align="center">
-<img width="80%" src="presentacion.png">
+<img width="60%" src="presentacion.PNG">
 </div>
 
 
